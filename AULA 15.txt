@@ -6,6 +6,7 @@ atrasar o Cadastro de fluxo de caixa-> Jess ficará sobrecarregada
 Cadastro de compra passaá a ser FS: SOBRECARGA
 
 adicionar tarefa: reunião para a prototipação e validação
+...
 
 
 UM OPRA E OUTRO EXPLICA, MOSTRAR OS COMMITS
