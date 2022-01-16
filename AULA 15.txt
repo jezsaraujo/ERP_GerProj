@@ -1,0 +1,31 @@
+projeto tá barato-> colocar mais dias ou colocar mais gente
+iniciar atrasado-> tela principal: 
+
+criaçao do banco de dados 
+atrasar o Cadastro de fluxo de caixa-> Jess ficará sobrecarregada
+Cadastro de compra passaá a ser FS: SOBRECARGA
+
+adicionar tarefa: reunião para a prototipação e validação
+
+
+UM OPRA E OUTRO EXPLICA, MOSTRAR OS COMMITS
+GIT PULL NA PASTA LOCAL
+OQ ELE FAZ, GRUPO DE TAREFAS
+
+
+
+DURAÇÃO MAIOR:
+BD-> 
+tela de relatorio
+ela do sistema
+
+INICIAR ATRASADA:
+CRUD DOS PRODUTOS
+validação do projeto
+crud dos fornecedores
+
+menor que o previsto:
+coleta de requisitos
+validação
+fim da analise
+fim da validação
